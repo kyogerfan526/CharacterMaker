@@ -1,0 +1,11 @@
+C:\Users\Julius\Documents\GitHub\CharacterMaker\obj\ARM\Debug\App.g.i.cs
+C:\Users\Julius\Documents\GitHub\CharacterMaker\obj\ARM\Debug\App.g.cs
+C:\Users\Julius\Documents\GitHub\CharacterMaker\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Julius\Documents\GitHub\CharacterMaker\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Julius\Documents\GitHub\CharacterMaker\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Julius\Documents\GitHub\CharacterMaker\obj\ARM\Debug\App.xaml
+C:\Users\Julius\Documents\GitHub\CharacterMaker\obj\ARM\Debug\MainPage.xaml
+C:\Users\Julius\Documents\GitHub\CharacterMaker\obj\ARM\Debug\App.xbf
+C:\Users\Julius\Documents\GitHub\CharacterMaker\obj\ARM\Debug\MainPage.xbf
+C:\Users\Julius\Documents\GitHub\CharacterMaker\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Julius\Documents\GitHub\CharacterMaker\obj\ARM\Debug\CharacterMaker.csprojAssemblyReference.cache
