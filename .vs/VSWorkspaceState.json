@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\ARM",
+    "\\bin\\ARM\\Debug",
+    "\\bin\\x86",
+    "\\bin\\x86\\Debug",
+    "\\obj",
+    "\\obj\\x86",
+    "\\obj\\x86\\Debug",
+    "\\obj\\x86\\Debug\\intermediatexaml"
+  ],
+  "SelectedNode": "\\CharacterMaker.sln",
+  "PreviewInSolutionExplorer": false
+}
